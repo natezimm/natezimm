@@ -1,7 +1,6 @@
 ## Hey, I’m Nathan 👋
 
-I’m a software engineer who enjoys building interactive, browser-based projects — full-stack apps and games you can explore and play.  
-Outside of coding, I’m into Philly sports, 2000’s pop punk, and fantasy novels.
+I’m a software engineer who enjoys building interactive, browser-based projects — full-stack apps and games you can explore and play. Outside of coding, I’m into Philly sports, 2000’s pop punk, and fantasy novels.
 
 ### 🛠️ Tools I use often
 <p>
