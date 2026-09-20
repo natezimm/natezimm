@@ -4,7 +4,7 @@ I’m a software engineer who enjoys building interactive, browser-based apps an
 
 ### 🛠️ Tools I use often
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,java,dotnet,nodejs,mongodb,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,cs,dotnet,java,nodejs,mongodb,aws,azure" />
 </p>
 
 ---
