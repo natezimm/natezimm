@@ -15,4 +15,4 @@ I’m a software engineer who enjoys building interactive, browser-based apps an
 - 📺 **[Rabbit Ears](https://github.com/natezimm/rabbit-ears)** – a 90s CRT TV for the living room, built with Angular, ASP.NET Core and WebGL
 - 🧱 **[Brick Breaker Resume](https://github.com/natezimm/brick-breaker-resume)** – interactive résumé powered by JavaScript and Phaser
 
-👉 Case studies and live demos at **https://nathanzimmerman.com**
+👉 More about these projects, with live demos, at **https://nathanzimmerman.com**
