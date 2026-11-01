@@ -4,15 +4,15 @@ I’m a software engineer who enjoys building interactive, browser-based apps an
 
 ### 🛠️ Tools I use often
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,cs,dotnet,java,nodejs,postman,mongodb,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,cs,dotnet,nodejs,postgres,docker,githubactions,gcp" />
 </p>
 
 ---
 
 ### 🕹️ Featured Projects
-- 🧱 **Brick Breaker Resume** – interactive résumé powered by JavaScript and Phaser
-- 🧠 **Nerdle** – full-stack technology word game built with React and Node.js/Express
-- ♠️ **Blackjack** – React and Spring Boot application with a server-side Blackjack engine 
-- 🔢 **Sudoku** – Angular and ASP.NET Core application with dynamically generated, uniquely solvable puzzles 
+- 🏠 **[Wheelhouse](https://github.com/natezimm/wheelhouse)** – family calendar for the kitchen wall and every phone, built on Google Calendar with Angular, ASP.NET Core and PostgreSQL
+- 🏀 **[Know Ball](https://github.com/natezimm/know-ball)** – daily NBA trivia games built with Angular, ASP.NET Core and PostgreSQL
+- 📺 **[Rabbit Ears](https://github.com/natezimm/rabbit-ears)** – a 90s CRT TV for the living room, built with Angular, ASP.NET Core and WebGL
+- 🧱 **[Brick Breaker Resume](https://github.com/natezimm/brick-breaker-resume)** – interactive résumé powered by JavaScript and Phaser
 
-👉 You can play them all at **https://nathanzimmerman.com**
+👉 Case studies and live demos at **https://nathanzimmerman.com**
